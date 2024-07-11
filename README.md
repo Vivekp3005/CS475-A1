@@ -1,7 +1,7 @@
 # Assignement 1
 # Particle Systems
-## Bagadiya Keyur 210010019
 ## Parsana Vivek Navinbhai 210010047
+## Bagadiya Keyur 210010019
 ### Acknowledgement
 We hereby confirm that all the code presented in our project has been written exclusively by myself and my partner. We take full responsibility for its creation and development. We use some external sources or third-party contributions and we explicitely mention this at end of ```Readme```
 
